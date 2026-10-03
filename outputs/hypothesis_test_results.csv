@@ -1,0 +1,3 @@
+hypothesis,statistic,statistic_type,p_value
+discount vs profit,-0.21948745637176845,pearson_r,2.702294436198942e-109
+profit by category,54.31102304381537,f_statistic,3.46991834622419e-24
